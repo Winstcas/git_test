@@ -1,0 +1,1 @@
+This is Winstcas first git project!
